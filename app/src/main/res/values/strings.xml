@@ -1,0 +1,9 @@
+<resources >
+  <string name="app_name" >EduTv</string >
+  <string name="msg_playback_ended" >Playback ended!</string >
+  <string name="msg_playback_started" >Playback started!</string >
+  <string name="msg_playback_paused" >Playback paused!</string >
+  <string name="play" >Play</string >
+  <string name="stop" >STOP</string >
+  <string name="pause" >PAUSE</string >
+</resources >
