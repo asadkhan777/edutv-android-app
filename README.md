@@ -33,9 +33,11 @@ Screenshots for the app are as below:
 <img src="https://github.com/asadkhan777/edutv-android-app/blob/develop/screenshots/screenshot_3_com.asadkhan.furlenco.edutv.png" width="450" alt="Screenshot 3">
   
   <br/>
-</p>
+  
 
 <h3>
   <a href="https://github.com/asadkhan777/edutv-android-app/blob/develop/edu-tv-app.apk">Download the apk and try it out!</a>
   <br/>
 </h3>
+
+</p>
