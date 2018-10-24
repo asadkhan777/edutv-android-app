@@ -7,13 +7,13 @@ An NGO is helping village kids by giving them Android phones so they can watch e
 
 The NGO wants an Android application that saves the video while a kid is watching it. This means that the kid will not need to re-download that video to watch it again.
 
-Challenge:
-[x] A video should be saved in the internal storage while user is streaming it.
-[x] You can use this link to access the video: http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
-[x] Make sure there is a single request going to the server for streaming and saving on the Android phone.
+# Challenge:
+- [x] A video should be saved in the internal storage while user is streaming it.
+- [x] You can use this link to access the video: http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+- [x] Make sure there is a single request going to the server for streaming and saving on the Android phone.
 
 Bonus Point:
-[x] Hating AsyncTasks!
+- [x] Hating AsyncTasks!
 
 # Proposed Solution : EduTv Video streaming app
 A light-weight android application build using various cutting edge technologies including rxjava2, kotlin, retrofit, exoplayer, etc.
