@@ -26,10 +26,10 @@ We achieved this using the *repository pattern* where both network & local data 
 Screenshots for the app are as below:
 
 <p align="center">
-  <img src="https://github.com/asadkhan777/edutv-android-app/blob/develop/screenshots/screenshot_1_com.asadkhan.furlenco.edutv.png" width="350" title="Screenshot 1">
+  <img src="https://github.com/asadkhan777/edutv-android-app/blob/develop/screenshots/screenshot_1_com.asadkhan.furlenco.edutv.png" width="200" title="Screenshot 1">
   
-  <img src="https://github.com/asadkhan777/edutv-android-app/blob/develop/screenshots/screenshot_2_com.asadkhan.furlenco.edutv.png" width="350" alt="Screenshot 2">
+  <img src="https://github.com/asadkhan777/edutv-android-app/blob/develop/screenshots/screenshot_2_com.asadkhan.furlenco.edutv.png" width="200" alt="Screenshot 2">
 
-<img src="https://github.com/asadkhan777/edutv-android-app/blob/develop/screenshots/screenshot_3_com.asadkhan.furlenco.edutv.png" width="350" alt="Screenshot 3">
+<img src="https://github.com/asadkhan777/edutv-android-app/blob/develop/screenshots/screenshot_3_com.asadkhan.furlenco.edutv.png" width="550" alt="Screenshot 3">
   
 </p>
