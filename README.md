@@ -15,7 +15,7 @@ The NGO wants an Android application that saves the video while a kid is watchin
 Bonus Point:
 - [x] Hating AsyncTasks!
 
-# Proposed Solution : EduTv Video streaming app
+# Our Proposed Solution : EduTv Video streaming app
 A light-weight android application build using various cutting edge technologies including rxjava2, kotlin, retrofit, exoplayer, etc.
 
 This player downloads the file in parallel while streaming the video inside the app.
