@@ -34,8 +34,7 @@ Screenshots for the app are as below:
   
   <br/>
   
-
-<h3>
+<h3 align="center">
   <a href="https://github.com/asadkhan777/edutv-android-app/blob/develop/edu-tv-app.apk">Download the apk and try it out!</a>
   <br/>
 </h3>
